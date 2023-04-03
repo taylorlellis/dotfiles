@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tayllorellis@gmail.com
+	name = Taylor Ellis
